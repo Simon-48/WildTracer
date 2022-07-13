@@ -1,0 +1,281 @@
+animal_type,scientific_name,average_lifespan,request_time,request_udapte_time,location,route
+Dog,Canis Lupus Familiaris,13,2010-10-09T03:59:12.000000Z,2010-10-09T04:13:59.000000Z,Dhaka,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2010-10-09T04:06:22.000000Z,2010-10-09T04:06:22.000000Z,Chittagong,Uposhohor Rd
+Hawk,Buteo,20,2010-11-04T22:40:13.000000Z,2010-06-21T12:09:28.000000Z,Khulna,Gohail Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2010-06-21T12:09:50.000000Z,2010-06-21T12:09:50.000000Z,Bogura,Matidali - Dhorompur Rd
+Fox,Vulpes Vulpes,4,2010-06-21T12:10:08.000000Z,2010-06-21T12:10:08.000000Z,Sylhet,Chondon - Baisha Rd
+Lizard,Lacertilia,5,2010-06-21T12:10:28.000000Z,2010-06-21T12:10:28.000000Z,Dhaka,Bogra - Sariakandi Rd
+Tiger,Panthera Tigris,10,2010-06-21T19:03:48.000000Z,2010-06-21T19:03:48.000000Z,Dhaka,Uposhohor Rd
+Dog,Canis Lupus Familiaris,13,2011-10-09T03:59:12.000000Z,2011-10-09T04:13:59.000000Z,Chittagong,Gohail Rd
+Cat,Felis Catus,16,2011-10-09T04:06:22.000000Z,2011-10-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2011-11-04T22:40:13.000000Z,2011-06-21T12:09:28.000000Z,Dhaka,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2011-06-21T12:09:50.000000Z,2011-06-21T12:09:50.000000Z,Dhaka,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2011-06-21T12:10:08.000000Z,2011-06-21T12:10:08.000000Z,Dhaka,Uposhohor Rd
+Lizard,Lacertilia,5,2011-06-21T12:10:28.000000Z,2011-06-21T12:10:28.000000Z,Chittagong,Gohail Rd
+Tiger,Panthera Tigris,10,2011-06-21T19:03:48.000000Z,2011-06-21T19:03:48.000000Z,Chittagong,Matidali - Dhorompur Rd
+Dog,Canis Lupus Familiaris,13,2011-10-09T03:59:12.000000Z,2011-10-09T04:13:59.000000Z,Khulna,Chondon - Baisha Rd
+Cat,Felis Catus,16,2012-10-09T04:06:22.000000Z,2012-10-09T04:06:22.000000Z,Khulna,Bogra - Sariakandi Rd
+Hawk,Buteo,20,2012-11-04T22:40:13.000000Z,2012-06-21T12:09:28.000000Z,Chittagong,Uposhohor Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2012-06-21T12:09:50.000000Z,2012-06-21T12:09:50.000000Z,Chittagong,Gohail Rd
+Fox,Vulpes Vulpes,4,2012-06-21T12:10:08.000000Z,2012-06-21T12:10:08.000000Z,Chittagong,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2012-06-21T12:10:28.000000Z,2012-06-21T12:10:28.000000Z,Khulna,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2012-06-21T19:03:48.000000Z,2012-06-21T19:03:48.000000Z,Khulna,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2012-10-09T03:59:12.000000Z,2012-10-09T04:13:59.000000Z,Bogura,Uposhohor Rd
+Cat,Felis Catus,16,2012-10-09T04:06:22.000000Z,2012-10-09T04:06:22.000000Z,Bogura,Gohail Rd
+Hawk,Buteo,20,2013-11-04T22:40:13.000000Z,2013-06-21T12:09:28.000000Z,Bogura,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2013-06-21T12:09:50.000000Z,2013-06-21T12:09:50.000000Z,Khulna,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2013-06-21T12:10:08.000000Z,2013-06-21T12:10:08.000000Z,Khulna,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2013-06-21T12:10:28.000000Z,2013-06-21T12:10:28.000000Z,Bogura,Uposhohor Rd
+Tiger,Panthera Tigris,10,2013-06-21T19:03:48.000000Z,2013-06-21T19:03:48.000000Z,Bogura,Gohail Rd
+Dog,Canis Lupus Familiaris,13,2013-10-09T03:59:12.000000Z,2013-10-09T04:13:59.000000Z,Sylhet,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2013-10-09T04:06:22.000000Z,2013-10-09T04:06:22.000000Z,Sylhet,Chondon - Baisha Rd
+Hawk,Buteo,20,2013-11-04T22:40:13.000000Z,2013-06-21T12:09:28.000000Z,Sylhet,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2014-06-21T12:09:50.000000Z,2014-06-21T12:09:50.000000Z,Sylhet,Uposhohor Rd
+Fox,Vulpes Vulpes,4,2014-06-21T12:10:08.000000Z,2014-06-21T12:10:08.000000Z,Bogura,Gohail Rd
+Lizard,Lacertilia,5,2015-06-21T12:10:28.000000Z,2015-06-21T12:10:28.000000Z,Sylhet,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2015-06-21T19:03:48.000000Z,2015-06-21T19:03:48.000000Z,Sylhet,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2015-10-09T03:59:12.000000Z,2015-10-09T04:13:59.000000Z,Dhaka,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2015-10-09T04:06:22.000000Z,2015-10-09T04:06:22.000000Z,Chittagong,Chondon - Baisha Rd
+Hawk,Buteo,20,2015-11-04T22:40:13.000000Z,2015-06-21T12:09:28.000000Z,Khulna,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2015-06-21T12:09:50.000000Z,2015-06-21T12:09:50.000000Z,Bogura,Uposhohor Rd
+Fox,Vulpes Vulpes,4,2016-06-21T12:10:08.000000Z,2016-06-21T12:10:08.000000Z,Sylhet,Gohail Rd
+Lizard,Lacertilia,5,2016-06-21T12:10:28.000000Z,2016-06-21T12:10:28.000000Z,Dhaka,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2016-06-21T19:03:48.000000Z,2016-06-21T19:03:48.000000Z,Dhaka,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2016-10-09T03:59:12.000000Z,2016-10-09T04:13:59.000000Z,Chittagong,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2016-10-09T04:06:22.000000Z,2016-10-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2016-11-04T22:40:13.000000Z,2016-06-21T12:09:28.000000Z,Dhaka,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2016-06-21T12:09:50.000000Z,2016-06-21T12:09:50.000000Z,Dhaka,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2016-06-21T12:10:08.000000Z,2016-06-21T12:10:08.000000Z,Dhaka,Uposhohor Rd
+Lizard,Lacertilia,5,2017-06-21T12:10:28.000000Z,2017-06-21T12:10:28.000000Z,Chittagong,Gohail Rd
+Tiger,Panthera Tigris,10,2017-06-21T19:03:48.000000Z,2017-06-21T19:03:48.000000Z,Chittagong,Matidali - Dhorompur Rd
+Dog,Canis Lupus Familiaris,13,2017-10-09T03:59:12.000000Z,2017-10-09T04:13:59.000000Z,Khulna,Chondon - Baisha Rd
+Cat,Felis Catus,16,2017-10-09T04:06:22.000000Z,2017-10-09T04:06:22.000000Z,Khulna,Bogra - Sariakandi Rd
+Hawk,Buteo,20,2017-11-04T22:40:13.000000Z,2017-06-21T12:09:28.000000Z,Chittagong,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2017-06-21T12:09:50.000000Z,2017-06-21T12:09:50.000000Z,Chittagong,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2017-06-21T12:10:08.000000Z,2017-06-21T12:10:08.000000Z,Chittagong,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2017-06-21T12:10:28.000000Z,2017-06-21T12:10:28.000000Z,Khulna,Uposhohor Rd
+Tiger,Panthera Tigris,10,2018-06-21T19:03:48.000000Z,2018-06-21T19:03:48.000000Z,Khulna,Gohail Rd
+Dog,Canis Lupus Familiaris,13,2018-10-09T03:59:12.000000Z,2018-10-09T04:13:59.000000Z,Bogura,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2018-10-09T04:06:22.000000Z,2018-10-09T04:06:22.000000Z,Bogura,Chondon - Baisha Rd
+Hawk,Buteo,20,2018-11-04T22:40:13.000000Z,2018-06-21T12:09:28.000000Z,Bogura,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2018-06-21T12:09:50.000000Z,2018-06-21T12:09:50.000000Z,Khulna,Matidali - Dhorompur Rd
+Fox,Vulpes Vulpes,4,2018-06-21T12:10:08.000000Z,2018-06-21T12:10:08.000000Z,Khulna,Chondon - Baisha Rd
+Lizard,Lacertilia,5,2018-06-21T12:10:28.000000Z,2018-06-21T12:10:28.000000Z,Bogura,Bogra - Sariakandi Rd
+Tiger,Panthera Tigris,10,2018-06-21T19:03:48.000000Z,2018-06-21T19:03:48.000000Z,Bogura,Uposhohor Rd
+Dog,Canis Lupus Familiaris,13,2019-10-09T03:59:12.000000Z,2019-10-09T04:13:59.000000Z,Sylhet,Gohail Rd
+Cat,Felis Catus,16,2019-10-09T04:06:22.000000Z,2019-10-09T04:06:22.000000Z,Sylhet,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2019-11-04T22:40:13.000000Z,2019-06-21T12:09:28.000000Z,Sylhet,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2019-06-21T12:09:50.000000Z,2019-06-21T12:09:50.000000Z,Sylhet,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2019-06-21T12:10:08.000000Z,2019-06-21T12:10:08.000000Z,Bogura,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2019-06-21T12:10:28.000000Z,2019-06-21T12:10:28.000000Z,Sylhet,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2019-06-21T19:03:48.000000Z,2019-06-21T19:03:48.000000Z,Sylhet,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2019-10-09T03:59:12.000000Z,2019-10-09T04:13:59.000000Z,Dhaka,Gohail Rd
+Cat,Felis Catus,16,2020-10-09T04:06:22.000000Z,2020-10-09T04:06:22.000000Z,Chittagong,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2020-11-04T22:40:13.000000Z,2020-06-21T12:09:28.000000Z,Khulna,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2020-06-21T12:09:50.000000Z,2020-06-21T12:09:50.000000Z,Bogura,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2020-06-21T12:10:08.000000Z,2020-06-21T12:10:08.000000Z,Sylhet,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2020-06-21T12:10:28.000000Z,2020-06-21T12:10:28.000000Z,Dhaka,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2020-06-21T19:03:48.000000Z,2020-06-21T19:03:48.000000Z,Dhaka,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2020-10-09T03:59:12.000000Z,2020-10-09T04:13:59.000000Z,Chittagong,Gohail Rd
+Cat,Felis Catus,16,2020-10-09T04:06:22.000000Z,2020-10-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2020-11-04T22:40:13.000000Z,2020-06-21T12:09:28.000000Z,Dhaka,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2020-06-21T12:09:50.000000Z,2020-06-21T12:09:50.000000Z,Dhaka,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2021-06-21T12:10:08.000000Z,2021-06-21T12:10:08.000000Z,Dhaka,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2021-06-21T12:10:28.000000Z,2021-06-21T12:10:28.000000Z,Chittagong,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2021-06-21T19:03:48.000000Z,2021-06-21T19:03:48.000000Z,Chittagong,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Khulna,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2021-11-21T12:09:28.000000Z,Chittagong,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2021-11-21T12:09:50.000000Z,2021-11-21T12:09:50.000000Z,Chittagong,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2021-11-21T12:10:08.000000Z,2021-11-21T12:10:08.000000Z,Chittagong,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2021-12-21T12:10:28.000000Z,2021-12-21T12:10:28.000000Z,Khulna,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2021-12-21T19:03:48.000000Z,2021-12-21T19:03:48.000000Z,Khulna,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2022-01-09T03:59:12.000000Z,2022-01-09T04:13:59.000000Z,Bogura,Gohail Rd
+Cat,Felis Catus,16,2022-01-09T04:06:22.000000Z,2022-01-09T04:06:22.000000Z,Bogura,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2022-01-04T22:40:13.000000Z,2022-01-21T12:09:28.000000Z,Bogura,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-01-21T12:09:50.000000Z,2022-01-21T12:09:50.000000Z,Khulna,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-01-21T12:10:08.000000Z,2022-01-21T12:10:08.000000Z,Khulna,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-01-21T12:10:28.000000Z,2022-01-21T12:10:28.000000Z,Dhaka,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-01-21T19:03:48.000000Z,2022-01-21T19:03:48.000000Z,Dhaka,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2022-02-09T03:59:12.000000Z,2022-02-09T04:13:59.000000Z,Dhaka,Gohail Rd
+Cat,Felis Catus,16,2022-02-09T04:06:22.000000Z,2022-02-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Khulna,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Chittagong,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Dhaka,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Chittagong,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Khulna,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Bogura,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Bogura,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Khulna,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Khulna,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Chittagong,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Dhaka,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Dhaka,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Dhaka,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Khulna,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Khulna,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Chittagong,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Dhaka,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Chittagong,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Dhaka,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Bogura,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Bogura,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Bogura,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Sylhet,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Sylhet,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Sylhet,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Sylhet,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Chittagong,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Khulna,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Dhaka,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Dhaka,Chondon - Baisha Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Bogra - Sariakandi Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Chittagong,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Chittagong,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Dhaka,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Dhaka,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Chittagong,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Dhaka,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Dhaka,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Dhaka,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Chittagong,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Chittagong,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Khulna,Chondon - Baisha Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Chittagong,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Chittagong,Matidali - Dhorompur Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Chittagong,Chondon - Baisha Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Khulna,Bogra - Sariakandi Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Khulna,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Bogura,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Bogura,Gohail Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Bogura,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Bogura,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Sylhet,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Sylhet,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Sylhet,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Sylhet,Bogra - Sariakandi Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Bogura,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Sylhet,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Sylhet,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Dhaka,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Chittagong,Chondon - Baisha Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Khulna,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Bogura,Gohail Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Sylhet,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Dhaka,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Dhaka,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Chittagong,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Chondon - Baisha Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Dhaka,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Dhaka,Gohail Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Dhaka,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Chittagong,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Chittagong,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Khulna,Chondon - Baisha Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Chittagong,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Chittagong,Gohail Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Chittagong,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Khulna,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Khulna,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Bogura,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Bogura,Matidali - Dhorompur Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Chondon - Baisha Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Gohail Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Bogura,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Bogura,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Sylhet,Uposhohor Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Sylhet,Gohail Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Sylhet,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Sylhet,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Bogura,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Sylhet,Uposhohor Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Sylhet,Gohail Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Dhaka,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Chittagong,Chondon - Baisha Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Khulna,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Bogura,Uposhohor Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Sylhet,Gohail Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Dhaka,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Dhaka,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Chittagong,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Uposhohor Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Dhaka,Gohail Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Dhaka,Matidali - Dhorompur Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Dhaka,Chondon - Baisha Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Chittagong,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Chittagong,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Khulna,Gohail Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Chittagong,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Chittagong,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Chittagong,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Khulna,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Khulna,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Bogura,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Bogura,Gohail Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Uposhohor Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Gohail Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Bogura,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Bogura,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Sylhet,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Sylhet,Uposhohor Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Sylhet,Gohail Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Sylhet,Matidali - Dhorompur Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Bogura,Chondon - Baisha Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Sylhet,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Sylhet,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Dhaka,Matidali - Dhorompur Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Chittagong,Chondon - Baisha Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Khulna,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Bogura,Uposhohor Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Sylhet,Gohail Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Dhaka,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Dhaka,Chondon - Baisha Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Chittagong,Bogra - Sariakandi Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Dhaka,Uposhohor Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Dhaka,Gohail Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Dhaka,Matidali - Dhorompur Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Dhaka,Chondon - Baisha Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Chittagong,Bogra - Sariakandi Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Chittagong,Uposhohor Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Gohail Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Bogura,Bogra - Sariakandi Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Uposhohor Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Sylhet,Gohail Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Sylhet,Matidali - Dhorompur Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Sylhet,Chondon - Baisha Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Chittagong,Bogra - Sariakandi Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Khulna,Uposhohor Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Bogura,Gohail Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Bogura,Bogra - Sariakandi Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-21T12:09:50.000000Z,2022-06-21T12:09:50.000000Z,Khulna,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2022-06-21T12:10:08.000000Z,2022-06-21T12:10:08.000000Z,Khulna,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2022-06-21T12:10:28.000000Z,2022-06-21T12:10:28.000000Z,Bogura,Gohail Rd
+Tiger,Panthera Tigris,10,2022-06-21T19:03:48.000000Z,2022-06-21T19:03:48.000000Z,Bogura,Matidali - Dhorompur Rd
+Dog,Canis Lupus Familiaris,13,2021-10-09T03:59:12.000000Z,2021-10-09T04:13:59.000000Z,Sylhet,Chondon - Baisha Rd
+Cat,Felis Catus,16,2021-10-09T04:06:22.000000Z,2021-10-09T04:06:22.000000Z,Sylhet,Bogra - Sariakandi Rd
+Hawk,Buteo,20,2021-11-04T22:40:13.000000Z,2022-06-21T12:09:28.000000Z,Sylhet,Matidali - Dhorompur Rd
+White-tailed Eagle,Haliaeetus Albicilla,20,2022-06-26T12:09:50.000000Z,2022-06-26T12:09:50.000000Z,Sylhet,Chondon - Baisha Rd
+Fox,Vulpes Vulpes,4,2022-06-27T12:10:08.000000Z,2022-06-27T12:10:08.000000Z,Bogura,Bogra - Sariakandi Rd
+Lizard,Lacertilia,5,2022-06-28T12:10:28.000000Z,2022-06-28T12:10:28.000000Z,Sylhet,Matidali - Dhorompur Rd
+Tiger,Panthera Tigris,10,2022-06-29T19:03:48.000000Z,2022-06-29T19:03:48.000000Z,Sylhet,Chondon - Baisha Rd
